@@ -5,4 +5,4 @@
 
 ### Model 2: Score-based (Hill Climbing)
 
-### Model 3: Hybrid (Max-Min Hill Climbing - MMHC)
+### Model 3: Expert Knowledge + Hill Climbing
